@@ -1,0 +1,13 @@
+/* styling for title and footer */
+.title {
+  text-align: center;
+  margin: auto;
+  padding: 30px 0;
+  font-size: 3rem;
+}
+
+footer {
+  position: fixed;
+  bottom: 10px;
+  font-size: 2rem;
+}
